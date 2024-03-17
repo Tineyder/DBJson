@@ -1,0 +1,46 @@
+[ {
+  "id" : 1,
+  "lastName" : "Істомін",
+  "firstName" : "Ремир",
+  "middleName" : "Євгенович",
+  "birthDate" : "1990-03-22",
+  "address" : "Херсон, просп. Ушакова, б.12",
+  "creditCardNumber" : "1104468",
+  "accountBalance" : 100.0
+}, {
+  "id" : 2,
+  "lastName" : "Миронов",
+  "firstName" : "Павло",
+  "middleName" : "Юрійович",
+  "birthDate" : "1991-04-11",
+  "address" : "Херсон, просп. Ушакова, б.14",
+  "creditCardNumber" : "3122140",
+  "accountBalance" : 200.0
+}, {
+  "id" : 3,
+  "lastName" : "Гришин",
+  "firstName" : "Євген",
+  "middleName" : "Сергійович",
+  "birthDate" : "1992-05-15",
+  "address" : "Херсон, просп. Ушакова, б.16",
+  "creditCardNumber" : "2602365",
+  "accountBalance" : 300.0
+}, {
+  "id" : 4,
+  "lastName" : "Сергеєва",
+  "firstName" : "Ольга",
+  "middleName" : "Іванівна",
+  "birthDate" : "1992-05-15",
+  "address" : "Херсон, просп. Ушакова, б.18",
+  "creditCardNumber" : "2348569",
+  "accountBalance" : 0.0
+}, {
+  "id" : 5,
+  "lastName" : "Ємель",
+  "firstName" : "Тетяна",
+  "middleName" : "Іванівна",
+  "birthDate" : "1992-05-15",
+  "address" : "Херсон, просп. Ушакова, б.20",
+  "creditCardNumber" : "1667533",
+  "accountBalance" : -300.0
+} ]
